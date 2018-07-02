@@ -11,11 +11,11 @@ Table of Contents
 \
 ..* List of authenticated contacts:\
 ..* Access credentials:\
-..* Detailed support procedure:\
+..* Detailed support procedure:
 * Known Issues\
 \
-\
-# Overview\
+
+# Overview
 AWS account number:\
 Console URL:\
 \
