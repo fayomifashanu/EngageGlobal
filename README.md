@@ -21,23 +21,23 @@
 * Environment type (production/staging/development): 
 
 Production Infrastructure:
-VPC
-eng vpc-0de7b269
-Subnets
-eng1 subnet-5f197407
-eng2 subnet-cc1434a8
-eng3 subnet-1a9ac06c
-Security Groups
-eng-elb-sg sg-13f59775
-eng-web-sg sg-c1f597a7
-eng-rds-sg sg-b3f597d5
-eng-geo-elb-sg sg-af7631c9
-eng-geo-web-sg sg-3a75325c
-pixpro-ssh-http-access sg-9ffb99f9
-db-ssh-http-access sg-61fa9807
-ELB
-eng-elb-408209066.eu-west-1.elb.amazonaws.com
-eng-geo-elb-1956647838.eu-west-1.elb.amazonaws.com
+VPC\
+eng vpc-0de7b269\
+Subnets\
+eng1 subnet-5f197407\
+eng2 subnet-cc1434a8\
+eng3 subnet-1a9ac06c\
+Security Groups\
+eng-elb-sg sg-13f59775\
+eng-web-sg sg-c1f597a7\
+eng-rds-sg sg-b3f597d5\
+eng-geo-elb-sg sg-af7631c9\
+eng-geo-web-sg sg-3a75325c\
+pixpro-ssh-http-access sg-9ffb99f9\
+db-ssh-http-access sg-61fa9807\
+ELB\
+eng-elb-408209066.eu-west-1.elb.amazonaws.com\
+eng-geo-elb-1956647838.eu-west-1.elb.amazonaws.com\
 
 RDS eng-rds.cxseqljtf8kz.eu-west-1.rds.amazonaws.com
 
