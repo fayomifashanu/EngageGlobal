@@ -3,9 +3,9 @@
 
 Table of Contents
 
-Overview &nbsp;
-Production Infrastructure:&nbsp;
-Continuous Integration&nbsp;
+Overview\ 
+Production Infrastructure:\
+Continuous Integration\
 ADHOC Scripts
 Support Procedure
 List of authenticated contacts:
