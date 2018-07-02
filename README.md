@@ -3,7 +3,7 @@
 
 # Table of Contents
 
-* [Overview]
+* Overview
 * Production Infrastructure:
 * Continuous Integration
 * ADHOC Scripts
@@ -20,7 +20,7 @@
 * Console URL:
 * Environment type (production/staging/development): 
 
-Production Infrastructure:
+## Production Infrastructure:
 ## VPC
 eng vpc-0de7b269\
 ## Subnets
@@ -34,7 +34,7 @@ eng-rds-sg sg-b3f597d5\
 eng-geo-elb-sg sg-af7631c9\
 eng-geo-web-sg sg-3a75325c\
 pixpro-ssh-http-access sg-9ffb99f9\
-db-ssh-http-access sg-61fa9807\
+db-ssh-http-access sg-61fa9807
 ## ELB
 eng-elb-408209066.eu-west-1.elb.amazonaws.com\
 eng-geo-elb-1956647838.eu-west-1.elb.amazonaws.com\
