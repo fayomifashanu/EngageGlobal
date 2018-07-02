@@ -16,8 +16,8 @@ Overview\
 AWS account number:\
 \
 \
-Console URL:\\
-
+Console URL:\
+\
 Environment type (production/staging/development): 
 
 Production Infrastructure:
