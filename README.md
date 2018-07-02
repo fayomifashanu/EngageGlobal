@@ -10,11 +10,12 @@ ADHOC Scripts\
 Support Procedure\
 List of authenticated contacts:\
 Access credentials:\
-Detailed support procedure:
-Known Issues
-Overview
-AWS account number:
-
+Detailed support procedure:\
+Known Issues\
+Overview\
+AWS account number:\
+\
+\
 Console URL:
 
 Environment type (production/staging/development): 
