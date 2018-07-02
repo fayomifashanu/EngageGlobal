@@ -12,15 +12,13 @@ Table of Contents
 ..* List of authenticated contacts:\
 ..* Access credentials:\
 ..* Detailed support procedure:
-* Known Issues\
+* Known Issues
 
 
 # Overview
-AWS account number:\
-Console URL:\
-\
-\
-Environment type (production/staging/development): 
+* AWS account number:
+* Console URL:
+* Environment type (production/staging/development): 
 
 Production Infrastructure:
 VPC
