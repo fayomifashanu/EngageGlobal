@@ -3,15 +3,15 @@
 
 Table of Contents
 
-# Overview\
+# Overview
 * Production Infrastructure:\
-Continuous Integration\
-ADHOC Scripts\
-Support Procedure\
-List of authenticated contacts:\
-Access credentials:\
-Detailed support procedure:\
-Known Issues\
+* Continuous Integration\
+* ADHOC Scripts\
+* Support Procedure\
+..* List of authenticated contacts:\
+..* Access credentials:\
+..* Detailed support procedure:\
+* Known Issues\
 \
 \
 # Overview\
