@@ -3,7 +3,7 @@
 
 Table of Contents
 
-Overview\ 
+Overview\
 Production Infrastructure:\
 Continuous Integration\
 ADHOC Scripts\
