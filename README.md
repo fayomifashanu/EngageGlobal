@@ -17,7 +17,8 @@ AWS account number:\
 \
 \
 Console URL:
-
+/
+/
 Environment type (production/staging/development): 
 
 Production Infrastructure:
