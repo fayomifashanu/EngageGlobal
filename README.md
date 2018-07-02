@@ -3,7 +3,7 @@
 
 # Table of Contents
 
-* Overview [1]
+* [Overview]
 * Production Infrastructure:
 * Continuous Integration
 * ADHOC Scripts
@@ -15,7 +15,7 @@
 * Known Issues
 
 
-(#Overview)
+# Overview
 * AWS account number:
 * Console URL:
 * Environment type (production/staging/development): 
